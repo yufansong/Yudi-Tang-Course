@@ -22,3 +22,4 @@ I write these code when I am new in Machine Learning at my sophomore year, 2017.
 18. EM
 19. GMM
 20. Xgboost
+21. ARIMA--time sequence data
