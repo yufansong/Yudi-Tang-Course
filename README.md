@@ -23,3 +23,8 @@ I write these code when I am new in Machine Learning at my sophomore year, 2017.
 19. GMM
 20. Xgboost
 21. ARIMA--time sequence data
+22. GAN ptorch  
+23. StyleTransfer-pytorch  
+
+# Numpy-100
+Finish the numpy-100 exercise   
