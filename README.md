@@ -28,3 +28,6 @@ I write these code when I am new in Machine Learning at my sophomore year, 2017.
 
 # Numpy-100
 Finish the numpy-100 exercise   
+
+# summer vacation
+some exersice in my sophmore year summer vacation
